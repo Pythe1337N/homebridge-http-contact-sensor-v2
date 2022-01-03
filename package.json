@@ -1,0 +1,32 @@
+{
+  "name": "homebridge-http-contact-sensor-v2",
+  "version": "1.0.0",
+  "description": "A contact sensor for Homebridge triggered via http.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pythe1337N/homebridge-http-contact-sensor-v2"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pythe1337N/homebridge-http-contact-sensor-v2/issues"
+  },
+  "homepage": "https://github.com/Pythe1337N/homebridge-http-contact-sensor-v2#readme",
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "homekit",
+    "contact sensor"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  }
+}
